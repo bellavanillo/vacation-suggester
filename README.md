@@ -1,9 +1,9 @@
-# _Animal Adoption_
+# _Vacation Suggester_
 
 
-#### _Animal Adoption Website, {11.17.2017}_
+#### _Vacation Suggester Website, {03.05.2018}_
 
-#### By _**Isabella Vanillo, Aaron Ross**_
+#### By _**Isabella Vanillo**_
 
 ## Description
 
@@ -13,7 +13,7 @@ _This webpage demonstrates the use of html, git, bootstrap, javascript, and css.
 
 * _Clone this repository_
 * _Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following command in your terminal:_
-* _cd animals_
+* _cd vacation-suggester_
 * _atom ._
 * _Then open your web browser of choice to index.html_
 
