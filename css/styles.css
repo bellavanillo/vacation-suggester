@@ -3,7 +3,7 @@ img {
   max-height: 20%;
 }
 .results {
-  display: none;
+  display: ;
 }
 .jumbotron {
   opacity: 0.6%;
@@ -15,4 +15,14 @@ h3 {
 }
 h1 {
   text-align: center;
+}
+body {
+  background-color: #42f4c2;
+}
+.well {
+  background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)) ,url("../img/travel.png");
+  background-size: cover; float: left;
+}
+ol {
+  font-size: 20px;
 }
