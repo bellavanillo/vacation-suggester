@@ -5,3 +5,14 @@ img {
 .results {
   display: none;
 }
+.jumbotron {
+  opacity: 0.6%;
+  background-size: cover;
+  background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)) ,url("../img/travell.jpg");
+}
+h3 {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
