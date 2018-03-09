@@ -3,8 +3,16 @@ img {
   max-height: 20%;
 }
 
-.result {
-  display: none;
+.icelandresult {
+  display:  none;
+}
+
+.rioresult {
+  display:  none;
+}
+
+.sbresult {
+  display:  none;
 }
 
 .jumbotron {
