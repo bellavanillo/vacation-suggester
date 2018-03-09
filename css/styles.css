@@ -2,6 +2,33 @@ img {
   max-width: 20%;
   max-height: 20%;
 }
-.results {
+
+.result {
   display: none;
+}
+
+.jumbotron {
+  opacity: 0.6%;
+  background-size: cover;
+  background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)) ,url("../img/travell.jpg");
+}
+
+h3 {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: #42f4c2;
+}
+
+.well {
+  background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)) ,url("../img/travel.png");
+  background-size: cover; float: left;
+}
+
+ol {
+  font-size: 20px;
 }
