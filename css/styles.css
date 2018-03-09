@@ -11,6 +11,7 @@ img {
   opacity: 0.6%;
   background-size: cover;
   background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)) ,url("../img/travell.jpg");
+  background-position: center;
 }
 
 h3 {
