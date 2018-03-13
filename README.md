@@ -25,12 +25,6 @@ _No known bugs_
 
 _If you run into any issues or have questions, ideas or concerns, please contact me at bellavanillo@gmail.com. Or feel free to make a contribution to the code._
 
-## Specifications
-
-* _It an count up to the provided number_
-* _Example Input: 2_
-* _Example Output: [1,2]_
-
 
 ## Technologies Used
 
